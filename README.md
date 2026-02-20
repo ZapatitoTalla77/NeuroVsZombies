@@ -23,6 +23,8 @@ Moving the Main.pak only change the textures, animations, audio and text. The py
 ## Feedback 
 Like i said before its my first work with python and coding and my art its not very good, so any help are welcome. 
 
+If you want to learn to mod PvZ use the [wiki](https://plantsvszombies.fandom.com/wiki/Modify_Plants_vs._Zombies) and this [doc](https://docs.google.com/document/d/1seslfFxBSvCFPRbXxeaSO-RJ6IrwfDBQ/edit#heading=h.7olnkzfh8jtj)  
+
 ## Some Sneak peek 
 <img width="319" height="339" alt="image" src="https://github.com/user-attachments/assets/6ce206fa-5e0f-4d78-a100-1cc23daec4e0" />
 <img width="420" height="500" alt="image" src="https://github.com/user-attachments/assets/ddc8804d-d8c7-423b-a4c1-4b9fa1776946" />
